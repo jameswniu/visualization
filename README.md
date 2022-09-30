@@ -7,5 +7,5 @@ Generate daily report with visuals for claims not billed only.py
 
 Generate daily report with visuals for claims without fax numbers only.py
 
-Create Barplot of restaurant reservations across us States over time.ipynb
+Create Barplot of restaurant reservations across US States over time.ipynb
 
