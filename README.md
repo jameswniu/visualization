@@ -1,5 +1,5 @@
 # Scripts for Visualization
-Pad missing values by multiple imputation center variables add interactions test train data by cross validation machine learn real estate analysis NY log Regression KNN and decision trees.R
+Pad missing values by multiple imputation center variables add interactions test train data by cross validation machine learn real estate analysis NYC log Regression KNN and decision trees.R
 
 Pad missing values by multiple imputation center variables add interactions test train data by cross validation machine learn recidivism rate for probationers log Regression KNN and decision trees.R
 
